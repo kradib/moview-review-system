@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MoviewReviewSystemApplication {
+public class MovieReviewSystemApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MoviewReviewSystemApplication.class, args);
+		SpringApplication.run(MovieReviewSystemApplication.class, args);
 	}
 
 }
